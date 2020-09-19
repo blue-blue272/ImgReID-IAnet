@@ -17,7 +17,8 @@ Person re-identification (reID) by CNNs based networks has achieved favorable pe
   ```Shell
   # For Market
   1. we first generate the part masks with the code https://github.com/Engineering-Course/LIP_JPPNet/.
-  
+  2. python train.py
+  3. python train.py --resume "path to model.pth" --evaluate
   ```
 
 ### Citation
