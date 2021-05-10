@@ -7,6 +7,12 @@ Ruibing Hou, Bingpeng Ma, Hong Chang,  Xinqian Gu, Shiguang Shan, Xilin Chen
 <br>
 TNNLS 2020
 
+[**Interaction-and-aggregation network for person re-identification**](https://arxiv.org/abs/1907.08435)
+<br>
+Ruibing Hou, Bingpeng Ma, Hong Chang,  Xinqian Gu, Shiguang Shan, Xilin Chen
+<br>
+CVPR 2019
+
 
 ### Abstract
 
@@ -31,6 +37,12 @@ If you use this code for your research, please cite our paper:
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2020},
   publisher={IEEE}
+}
+@inproceedings{IANet,
+  title={Interaction-and-Aggregation Network for Person Re-identification},
+  author={Ruibing Hou and Bingpeng Ma and Hong Chang and Xinqian Gu and Shiguang Shan and Xilin Chen},
+  booktitle={CVPR},
+  year={2019}
 }
 ```
 
