@@ -1,7 +1,7 @@
 # IAUnet
 This repository contains the code for the paper:
 <br>
-[**IAUnet: Global Context-Aware Feature Learning for Person Re-Identification**](https://arxiv.org/pdf/2007.09357.pdf)
+[**IAUnet: Global Context-Aware Feature Learning for Person Re-Identification**](https://arxiv.org/abs/2009.01035)
 <br>
 Ruibing Hou, Bingpeng Ma, Hong Chang,  Xinqian Gu, Shiguang Shan, Xilin Chen
 <br>
